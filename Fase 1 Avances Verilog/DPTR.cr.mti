@@ -1,0 +1,51 @@
+{C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/RAM.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/RAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/BancoReg.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/BancoReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Registros
+
+Top level modules:
+	Registros
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/DPTR.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/DPTR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR
+-- Compiling module DPTR_TB
+
+Top level modules:
+	DPTR_TB
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/ALU.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/Mux2a1.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/Mux2a1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2a1
+
+Top level modules:
+	Mux2a1
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/UnidadControl.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/UnidadControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UnidadControl
+
+Top level modules:
+	UnidadControl
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/ALUcontrol.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 1 Avances Verilog/ALUcontrol.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AluControl
+
+Top level modules:
+	AluControl
+
+} {} {}}
