@@ -1,0 +1,10 @@
+﻿Equipo numero 5 - Chivas Rayadas de Guadalajara
+
+
+Galindo parra Javier Alberto - Python
+López fletes Benjamín - Verilog
+Renteria Haro juan José - Admin
+Vázquez Mendoza David Fernando - Documentación
+
+
+https://github.com/JJRNTH/Proyecto-Arquitectura/tree/main
