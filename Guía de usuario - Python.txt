@@ -1,0 +1,20 @@
+﻿Guía de usuario
+1. Descarga y Ejecución:
+• Descarga el código fuente del Convertidor de Instrucciones a Binario desde el repositorio en línea.
+• Ejecuta el script principal para abrir la interfaz gráfica del programa.
+
+2. Interfaz Gráfica:
+• La interfaz consta de dos secciones: una para la entrada de archivos y otra para la salida.
+• Selecciona un archivo de entrada (.asm) que contenga las instrucciones en lenguaje ensamblador.
+• Especifica la ubicación y el nombre del archivo de salida (.bin) donde se guardarán las instrucciones convertidas a binario.
+
+3. Conversión:
+• Haz clic en el botón "Convertir" para iniciar el proceso de conversión.
+• El programa leerá las instrucciones del archivo de entrada, las convertirá a binario y las escribirá en el archivo de salida.
+
+4. Visualización de Resultados:
+• Si la conversión se realiza con éxito, se mostrará un mensaje de confirmación.
+• En caso de errores durante la conversión, se proporcionará información detallada sobre las instrucciones problemáticas en un archivo de registro.
+
+Nota: Si encuentras problemas técnicos o tienes sugerencias de mejora, no dudes en comunicarte con los desarrolladores del proyecto.
+
