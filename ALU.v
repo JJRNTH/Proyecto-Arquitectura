@@ -29,7 +29,7 @@ always@(OP1,OP2,Sel)
 		//SET ON LESS THAN
 		if(Sel==7)
 			begin
-				if(OP1>OP2) begin
+				if(OP1<OP2) begin
 					Resultado = 1;
 				end
 				else begin
