@@ -1,0 +1,99 @@
+{C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SL32B
+
+Top level modules:
+	SL32B
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MemIns
+
+Top level modules:
+	MemIns
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2a15B
+
+Top level modules:
+	Mux2a15B
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UnidadControl
+
+Top level modules:
+	UnidadControl
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2a1
+
+Top level modules:
+	Mux2a1
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Registros
+
+Top level modules:
+	Registros
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SL2
+
+Top level modules:
+	SL2
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AluControl
+
+Top level modules:
+	AluControl
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main
+
+Top level modules:
+	Main
+
+} {} {}} {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v} {1 {vlog -work work -stats=none {C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Add4
+
+Top level modules:
+	Add4
+
+} {} {}}

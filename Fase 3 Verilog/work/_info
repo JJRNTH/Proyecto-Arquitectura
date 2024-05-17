@@ -1,0 +1,371 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 2 Verilog
+vAdd4
+Z0 !s110 1715988349
+!i10b 1
+!s100 XzFe@WLaKZV[le^e=10=H1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAEM=7jRMkmYODkjjcQ_k^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog
+w1715704593
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v
+!i122 334
+Z4 L0 1 9
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1715988349.000000
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@add4
+vAdder
+Z9 !s110 1715988350
+!i10b 1
+!s100 _AAZ8Z?YEncDAD9zBlKQo3
+R1
+I92Kb:VTM=Ma;>zY:deUhz0
+R2
+R3
+w1715732585
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v
+!i122 347
+L0 1 10
+R5
+r1
+!s85 0
+31
+Z10 !s108 1715988350.000000
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Adder.v|
+!i113 1
+R7
+R8
+n@adder
+vALU
+R0
+!i10b 1
+!s100 K8C0d4H^J>7GBiL=0X;jO2
+R1
+IBJoh`LRE1`GzGXj=1k`YY2
+R2
+R3
+w1715722724
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v
+!i122 335
+L0 1 58
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vAluControl
+R0
+!i10b 1
+!s100 WQQE=]gcN1<?l625>J@UY0
+R1
+IAg:Oo?hfPm=hW6U?czL_K2
+R2
+R3
+w1715732545
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v
+!i122 336
+L0 1 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ALUcontrol.v|
+!i113 1
+R7
+R8
+n@alu@control
+vMain
+!s110 1715988351
+!i10b 1
+!s100 32nSKUTTU=bKFkTdHb99R0
+R1
+IlWa;TAMm_TJbNH_aj08DO0
+R2
+R3
+w1715988205
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v
+!i122 348
+L0 2 134
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v|
+!i113 1
+R7
+R8
+n@main
+vMemIns
+R0
+!i10b 1
+!s100 6ocNkWJ_3ES_J6T9;B8Q`1
+R1
+I2QkaGBf_KA3nZ`AVh3R`d0
+R2
+R3
+w1715970761
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v
+!i122 338
+Z11 L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/MemIns.v|
+!i113 1
+R7
+R8
+n@mem@ins
+vMux2a1
+R9
+!i10b 1
+!s100 DToHUYZ;iR]DmzA]hcYno1
+R1
+IQ4Q:1K91W`0n1RA>HP1bP0
+R2
+R3
+w1714345286
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v
+!i122 339
+Z12 L0 1 14
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v|
+!i113 1
+R7
+R8
+n@mux2a1
+vMux2a15B
+R9
+!i10b 1
+!s100 VN2lEG?<O8<^ihQ4]3?bz2
+R1
+ILHO_NOWHPg<3JheIQNN3U2
+R2
+R3
+w1715528579
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v
+!i122 340
+R12
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a15B.v|
+!i113 1
+R7
+R8
+n@mux2a15@b
+vPC
+R9
+!i10b 1
+!s100 8J5[]10GKVSiHoTa_YlKM0
+R1
+IGZ^obFV<[]8<Do[>C9_7G0
+R2
+R3
+w1715988340
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/PC.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/PC.v
+!i122 341
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/PC.v|
+!i113 1
+R7
+R8
+n@p@c
+vRam
+R9
+!i10b 1
+!s100 ^G0Oo?F3PdIFWen@G6G`B2
+R1
+IG`RVPNB2P23Z7o`BXfZo43
+R2
+R3
+w1715967801
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v
+!i122 342
+L0 1 24
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v|
+!i113 1
+R7
+R8
+n@ram
+vRegistros
+R0
+!i10b 1
+!s100 B7eKAOSTXV6`acMoF7of23
+R1
+IzBh2Z?ezX6[2b;SIJn<AO0
+R2
+R3
+w1715967761
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v
+!i122 337
+L0 1 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/BancoReg.v|
+!i113 1
+R7
+R8
+n@registros
+vSE
+R9
+!i10b 1
+!s100 F94eQLQMWQ?;TB;Noc0@82
+R1
+I`ZY3[JhGQTf=YRHMZka:l0
+R2
+R3
+w1715732362
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v
+!i122 345
+L0 1 7
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/SignExtend.v|
+!i113 1
+R7
+R8
+n@s@e
+vSL2
+R9
+!i10b 1
+!s100 ;RAicA=7GZ]h>eUDO<d]R3
+R1
+IAzg;gVG4:lDdI1M>Y6G=h2
+R2
+R3
+w1715732524
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v
+!i122 344
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v|
+!i113 1
+R7
+R8
+n@s@l2
+vSL32B
+R9
+!i10b 1
+!s100 SMRmm6]OP24NFfYIXfkh80
+R1
+I<N`6I_Ngoi89NWlB_<;Qi3
+R2
+R3
+w1715732521
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v
+!i122 346
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft32B.v|
+!i113 1
+R7
+R8
+n@s@l32@b
+vUnidadControl
+R9
+!i10b 1
+!s100 jV98j215ggM4oU[30ZSzD1
+R1
+I0FBmJ7h_5dbnRX4Vj=eJ?1
+R2
+R3
+w1715973033
+8C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v
+FC:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v
+!i122 343
+L0 1 79
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/UnidadControl.v|
+!i113 1
+R7
+R8
+n@unidad@control

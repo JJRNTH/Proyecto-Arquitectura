@@ -1,0 +1,914 @@
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 12:11:42 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Entrada'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Add4.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/A4 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 26
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (38) for port 'D1'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/Mux5 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 84
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (28) does not match connection size (32) for port 'out'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/ShiftLeft File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 102
+run -next
+run -all
+# Break key hit
+# Break in Module PC at C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/PC.v line 6
+quit -sim
+# End time: 12:18:10 on May 17,2024, Elapsed time: 0:06:28
+# Errors: 0, Warnings: 6
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 12:20:42 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (36) for port 'D1'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/Mux5 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 84
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (28) does not match connection size (32) for port 'out'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/ShiftLeft File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 102
+run
+run -next
+add wave -position insertpoint  \
+sim:/Main/ProgramCounter/PCNext
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+run -next
+quit -sim
+# End time: 12:32:46 on May 17,2024, Elapsed time: 0:12:04
+# Errors: 0, Warnings: 5
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 12:33:05 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (36) for port 'D1'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/Mux5 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 84
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (28) does not match connection size (32) for port 'out'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/ShiftLeft File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 102
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -continue
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 4 0
+# Invalid binary digit: 4.
+# ** UI-Msg: (vsim-4011) Invalid force value: 4 0.
+# 
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -continue
+run -next
+run -next
+run -next
+run -next
+run -next
+quit -sim
+# End time: 13:11:10 on May 17,2024, Elapsed time: 0:38:05
+# Errors: 0, Warnings: 5
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 13:11:23 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (36) for port 'D1'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Mux2a1.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/Mux5 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 84
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (28) does not match connection size (32) for port 'out'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/ShiftLeft2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/ShiftLeft File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 102
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+run -next
+quit -sim
+# End time: 14:21:21 on May 17,2024, Elapsed time: 1:09:58
+# Errors: 0, Warnings: 5
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 14:21:30 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+run -next
+quit -sim
+# End time: 15:14:30 on May 17,2024, Elapsed time: 0:53:00
+# Errors: 0, Warnings: 3
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 15:14:41 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 4 0
+# Invalid binary digit: 4.
+# ** UI-Msg: (vsim-4011) Invalid force value: 4 0.
+# 
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001100 0
+run -next
+run -next
+run -next
+quit -sim
+# End time: 16:41:44 on May 17,2024, Elapsed time: 1:27:03
+# Errors: 0, Warnings: 3
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 16:41:54 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+#############  Autofindloop Analysis  ###############
+#############  Loop found at time 500 ps ###############
+#   Active process: /Main/BR/#IMPLICIT-WIRE(S1)#47 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:47
+#   Active process: /Main/A/#IMPLICIT-WIRE(Resultado)#35 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:35
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+#   Active process: /Main/A/#IMPLICIT-WIRE(Resultado)#35 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:35
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+#   Active process: /Main/BR/#IMPLICIT-WIRE(S1)#47 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:47
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 2
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+################# END OF LOOP #################
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 500 ps.
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001100 0
+run -next
+run -next
+run -next
+run -next
+quit -sim
+# End time: 16:57:03 on May 17,2024, Elapsed time: 0:15:09
+# Errors: 1, Warnings: 2
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 16:57:16 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+#############  Autofindloop Analysis  ###############
+#############  Loop found at time 500 ps ###############
+#   Active process: /Main/BR/#IMPLICIT-WIRE(S1)#47 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:47
+#   Active process: /Main/A/#IMPLICIT-WIRE(Resultado)#35 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:35
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 0
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+#   Active process: /Main/A/#IMPLICIT-WIRE(Resultado)#35 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:35
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+#   Active process: /Main/BR/#IMPLICIT-WIRE(S1)#47 @ sub-iteration 1
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:47
+#   Active process: /Main/Mux1/#IMPLICIT-WIRE(Salida)#60 @ sub-iteration 2
+#     Source: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v:60
+################# END OF LOOP #################
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 500 ps.
+add wave -position insertpoint  \
+{sim:/Main/BR/regs[10]}
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -continue
+run -continue
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 500 ps.
+quit -sim
+# End time: 17:01:22 on May 17,2024, Elapsed time: 0:04:06
+# Errors: 1, Warnings: 2
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:03:41 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001100 0
+run -next
+run -next
+run -next
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 95
+force -freeze sim:/Main/ProgramCounter/PCNext 0 0
+run -next
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000000100 0
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001000 0
+run -next
+run -next
+run -next
+run -next
+force -freeze sim:/Main/ProgramCounter/PCNext 00000000000000000000000000001100 0
+run -next
+run -next
+# Break key hit
+quit -sim
+# End time: 17:09:50 on May 17,2024, Elapsed time: 0:06:09
+# Errors: 0, Warnings: 2
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:10:00 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -all
+# Break key hit
+# Simulation stop requested.
+quit -sim
+# End time: 17:11:45 on May 17,2024, Elapsed time: 0:01:45
+# Errors: 0, Warnings: 3
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:11:53 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -all
+# Break key hit
+# Simulation stop requested.
+quit -sim
+# End time: 17:12:59 on May 17,2024, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 3
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:17:24 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -next
+run -all
+# Break key hit
+# Break in Module Main at C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v line 132
+quit -sim
+# End time: 17:17:56 on May 17,2024, Elapsed time: 0:00:32
+# Errors: 0, Warnings: 2
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v failed with 1 errors.
+# 15 compiles, 1 failed with 1 error.
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v failed with 1 errors.
+# 15 compiles, 1 failed with 1 error.
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v failed with 1 errors.
+# 15 compiles, 1 failed with 1 error.
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v failed with 1 errors.
+# 15 compiles, 1 failed with 1 error.
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:21:45 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -all
+# Break key hit
+# Simulation stop requested.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+add wave -position insertpoint  \
+sim:/Main/ProgramCounter/PCNext
+run -all
+# Break key hit
+# Simulation stop requested.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+quit -sim
+# End time: 17:23:57 on May 17,2024, Elapsed time: 0:02:12
+# Errors: 0, Warnings: 2
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:24:08 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -all
+# Break key hit
+# Break in Module Main at C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v line 133
+quit -sim
+# End time: 17:24:49 on May 17,2024, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 3
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+# Compile of Add4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUcontrol.v was successful.
+# Compile of BancoReg.v was successful.
+# Compile of MemIns.v was successful.
+# Compile of Mux2a1.v was successful.
+# Compile of Mux2a15B.v was successful.
+# Compile of PC.v was successful.
+# Compile of RAM.v was successful.
+# Compile of UnidadControl.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of ShiftLeft32B.v was successful.
+# Compile of Adder.v was successful.
+# Compile of Main.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.Main
+# vsim -gui work.Main 
+# Start time: 17:25:56 on May 17,2024
+# Loading work.Main
+# Loading work.Add4
+# Loading work.Adder
+# Loading work.ALU
+# Loading work.AluControl
+# Loading work.Registros
+# Loading work.MemIns
+# Loading work.Mux2a1
+# Loading work.Mux2a15B
+# Loading work.PC
+# Loading work.Ram
+# Loading work.SL2
+# Loading work.SL32B
+# Loading work.SE
+# Loading work.UnidadControl
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+run -all
+# Break key hit
+# Simulation stop requested.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (6) does not match connection size (32) for port 'Dir'. The port definition is at: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/RAM.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /Main/R1 File: C:/Users/rente/OneDrive/Documentos/ModelSim/ProyectoFinal/Fase 3 Verilog/Main.v Line: 96
+add wave -position insertpoint  \
+{sim:/Main/R1/Dato1[30]}
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# Break key hit
+# Simulation stop requested.
+# End time: 17:37:22 on May 17,2024, Elapsed time: 0:11:26
+# Errors: 0, Warnings: 2
